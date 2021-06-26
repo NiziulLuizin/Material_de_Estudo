@@ -1,5 +1,4 @@
-public class Aula2 {
-    
+public class Aula2{  
     public static void main(String[] args){
         Caneta c1 = new Caneta();
         c1.cor = "Azul";
@@ -8,7 +7,6 @@ public class Aula2 {
         c1.carga = 55;
         //c1.status();
         //c1.rabiscar();
-
 
         Caneta c2 = new Caneta();
         c2.modelo = "Hostnet";
